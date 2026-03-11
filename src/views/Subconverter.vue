@@ -344,11 +344,11 @@ export default {
         backendOptions: [ { value: "https://subapi.zrfme.com" }, { value: "https://1060e98895bedf43d3d738e3b7fc9120a0cbbbcf-15051.dstack-prod8.phala.network" }, { value: "https://subapi.cmliussss.net" }, { value: "https://subapi.fxxk.dedyn.io" }, { value: "https://url.v1.mk" }, { value: "https://sub.d1.mk" }, { value: "https://www.nameless13.com" }, { value: "https://sub.xeton.dev" }, { value: "https://api.wcc.best" }, { value: "https://sub.xjz.im" }, { value: "https://api.sublink.dev" }, { value: "https://api.subcsub.com" } ],
         remoteConfig: [
           {
-            label: "PA规则",
+            label: "𝙇𝙚𝙒𝙖𝙣规则",
             options: [
               {
-                label: "PA_Online_MultiMode 识别多地区 负载均衡(与Github同步)",
-                value: "https://raw.githubusercontent.com/iTCoffe/Loong/lite/ACL4SSR/ACL4SSR_Online_MultiMode.ini"
+                label: "𝙇𝙚𝙒𝙖𝙣_Online_MultiMode 识别多地区 负载均衡(与Github同步)",
+                value: "https://raw.githubusercontent.com/iTaoPu/iCloud/Grey/ACL4SSR/ACL4SSR_Online_MultiMode.ini"
               }
             ]
           },
@@ -1314,4 +1314,5 @@ export default {
   display: none !important;
 }
 </style>
+
 
