@@ -347,8 +347,8 @@ export default {
             label: "𝙇𝙚𝙒𝙖𝙣规则",
             options: [
               {
-                label: "𝙇𝙚𝙒𝙖𝙣_Online_MultiMode 识别多地区 负载均衡(与Github同步)",
-                value: "https://raw.githubusercontent.com/iTaoPu/iCloud/Grey/ACL4SSR/ACL4SSR_Online_MultiMode.ini"
+                label: "𝙇𝙚𝙒𝙖𝙣_Online_Matrix 识别多地区 负载均衡(与Github同步)",
+                value: "https://raw.githubusercontent.com/iTaoPu/iCloud/Grey/ACL4SSR/𝙇𝙚𝙒𝙖𝙣_Online_Matrix.ini"
               }
             ]
           },
